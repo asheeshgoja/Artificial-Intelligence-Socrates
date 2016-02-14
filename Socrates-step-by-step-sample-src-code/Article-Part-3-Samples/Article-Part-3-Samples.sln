@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CLIPS Rules File", "CLIPS Rules File", "{66FDD554-BE15-4270-88BE-A4300144E0F8}"
+	ProjectSection(SolutionItems) = preProject
+		SocratesKnowledgeBase.clp = SocratesKnowledgeBase.clp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Socrates_AsJavaApp", "Socrates_AsJavaApp", "{40F70397-4398-4276-A50C-83DDD4888F7C}"
+	ProjectSection(SolutionItems) = preProject
+		Socrates_AsJavaApp\src\Socrates_AsJavaApp.java = Socrates_AsJavaApp\src\Socrates_AsJavaApp.java
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetMarriedOrStaySingle_AsCppConsoleApp", "Socrates_AsCppConsoleApp\Socrates_AsCppConsoleApp.vcproj", "{411BBC65-5776-4958-88D6-ACDFDC96FF18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socrates_AsCSharpApp", "Socrates_AsCSharpApp\Socrates_AsCSharpApp.csproj", "{E5C50A42-6469-4523-86C4-D48E9CC86190}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Debug|Win32.Build.0 = Debug|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Release|Any CPU.ActiveCfg = Release|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Release|Win32.ActiveCfg = Release|Win32
+		{411BBC65-5776-4958-88D6-ACDFDC96FF18}.Release|Win32.Build.0 = Release|Win32
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E5C50A42-6469-4523-86C4-D48E9CC86190}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
